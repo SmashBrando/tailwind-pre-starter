@@ -1,0 +1,43 @@
+{
+  "name": "tailwind-starter",
+  "version": "1.0.0",
+  "description": "A starter kit to get going with tailwind, gulp, less and sass",
+  "main": "gulpfile.js",
+  "paths": {
+    "src": {
+      "css": "./src/css/"
+    },
+    "dist": {
+      "base": "./dist/",
+      "css": "./dist/css/"
+    },
+    "config": {
+      "tailwind": "./tailwind.js"
+    }
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-stylus": "^2.6.0",
+    "tailwindcss": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "utility-first",
+    "CSS",
+    "LESS",
+    "SCSS",
+    "SASS",
+    "boilerplate",
+    "gulp",
+  ],
+  "author": "smashbrando",
+  "license": "MIT",
+  "dependencies": {}
+}
