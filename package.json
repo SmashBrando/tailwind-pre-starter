@@ -21,7 +21,7 @@
     "gulp-postcss": "^7.0.0",
     "gulp-sass": "^3.1.0",
     "gulp-stylus": "^2.6.0",
-    "tailwindcss": "^0.3.0"
+    "tailwindcss": "^0.4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -35,9 +35,9 @@
     "SCSS",
     "SASS",
     "boilerplate",
-    "gulp",
+    "gulp"
   ],
-  "author": "smashbrando",
+  "author": "SmashBrando",
   "license": "MIT",
   "dependencies": {}
 }
