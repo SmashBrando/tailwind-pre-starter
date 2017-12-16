@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-starter",
-  "version": "1.0.0",
+  "name": "tailwind--re-starter",
+  "version": "0.4.0",
   "description": "A starter kit to get going with tailwind, gulp, less and sass",
   "main": "gulpfile.js",
   "paths": {
@@ -20,7 +20,6 @@
     "gulp-less": "^3.3.2",
     "gulp-postcss": "^7.0.0",
     "gulp-sass": "^3.1.0",
-    "gulp-stylus": "^2.6.0",
     "tailwindcss": "^0.4.0"
   },
   "scripts": {
